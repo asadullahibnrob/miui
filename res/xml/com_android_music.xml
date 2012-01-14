@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/app_music">@drawable/app_music</item>
+    <item name="drawable/app_video">@drawable/app_video</item>
+</resource-redirections>

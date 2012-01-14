@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/ic_launcher_alarmclock">@drawable/ic_launcher_alarmclock</item>
+    <item name="drawable/appwidget_clock_dial">@drawable/appwidget_clock_dial</item>
+    <item name="drawable/appwidget_clock_hour">@drawable/appwidget_clock_hour</item>
+    <item name="drawable/appwidget_clock_minute">@drawable/appwidget_clock_minute</item>
+    <item name="drawable/ic_widget_analog_clock">@drawable/ic_widget_analog_clock</item>
+</resource-redirections>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+   
+         <item name="drawable/hotseat_bg_center">@drawable/hotseat_bg_center</item>
+    <item name="drawable/hotseat_bg_left">@drawable/hotseat_bg_left</item>
+    <item name="drawable/hotseat_bg_right">@drawable/hotseat_bg_right</item>
+    <item name="drawable/hotseat_bg_center_focus">@drawable/hotseat_bg_center_focus</item>
+    <item name="drawable/hotseat_bg_left_focus">@drawable/hotseat_bg_left_focus</item>
+    <item name="drawable/hotseat_bg_right_focus">@drawable/hotseat_bg_right_focus</item>
+
+
+    <item name="drawable/lab2_bg">@drawable/lab2_bg</item>
+    <item name="drawable/rab2_bg">@drawable/rab2_bg</item>
+    <item name="drawable/shortcut_selector">@drawable/shortcut_selector</item>
+
+</resource-redirections>

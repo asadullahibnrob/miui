@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest android:hasCode="false" 
+android:versionCode="15" 
+android:versionName="2.4.0" 
+package="com.asad.miui"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:pluto="http://www.w3.org/2001/pluto.html">
+    <uses-sdk android:minSdkVersion="10" android:targetSdkVersion="10" />
+    <uses-feature android:name="com.tmobile.software.themes" />
+    <application android:label="@string/app_name" android:icon="@drawable/homeicon" android:hasCode="false" />
+    <theme pluto:themeId="miui" 
+pluto:styleId="@style/miui" 
+pluto:name="@string/theme_name" pluto:preview="@drawable/preview" pluto:author="@string/author" 
+pluto:copyright="@string/copyright" 
+pluto:wallpaperImage="@drawable/wallpaper" 
+pluto:styleName="@string/style_appearance_name" 
+pluto:ringtoneName="Shocking" 
+pluto:ringtoneFileName="media/audio/ringtones/Shocking.mp3" 
+pluto:notificationRingtoneName="Teleport" 
+pluto:notificationRingtoneFileName="media/audio/notifications/Teleport.mp3">
+        <meta-data android:name="com.tmobile.theme.redirections" android:resource="@xml/redirections" />
+    </theme>
+</manifest>

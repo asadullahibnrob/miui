@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">miui</string>
+    <string name="theme_name">miui</string>
+    <string name="style_appearance_name">miui</string>
+    <string name="author">Asadullah</string>
+    <string name="copyright">None</string>
+</resources>

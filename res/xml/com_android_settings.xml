@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections> #icon
+<item name="drawable/ic_launcher_settings">@drawable/settings</item> # settings menu
+<item name="drawable/ic_settings_wireless">@drawable/ic_settings_wireless</item>
+    <item name="drawable/ic_settings_call">@drawable/ic_settings_call</item>
+    <item name="drawable/ic_cyanogenmod">@drawable/ic_cyanogenmod</item>
+    <item name="drawable/ic_settings_launcher">@drawable/ic_settings_launcher</item>
+    <item name="drawable/ic_settings_sound">@drawable/ic_settings_sound</item>
+    <item name="drawable/ic_settings_profile">@drawable/ic_settings_profile</item>
+    <item name="drawable/ic_settings_display">@drawable/ic_settings_display</item>
+    <item name="drawable/ic_settings_security">@drawable/ic_settings_security</item>
+    <item name="drawable/ic_settings_applications">@drawable/ic_settings_applications</item>
+    <item name="drawable/ic_settings_sync">@drawable/ic_settings_sync</item>
+    <item name="drawable/ic_settings_privacy">@drawable/ic_settings_privacy</item>
+    <item name="drawable/ic_settings_storage">@drawable/ic_settings_storage</item>
+    <item name="drawable/ic_settings_language">@drawable/ic_settings_language</item>
+    <item name="drawable/ic_settings_speech">@drawable/ic_settings_speech</item>
+    <item name="drawable/ic_settings_accessibility">@drawable/ic_settings_accessibility</item>
+    <item name="drawable/ic_settings_date_time">@drawable/ic_settings_date_time</item>
+    <item name="drawable/ic_settings_about">@drawable/ic_settings_about</item>
+</resource-redirections>
