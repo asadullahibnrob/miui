@@ -32,7 +32,7 @@
     <item name="drawable/stat_sys_signal_3">@drawable/signal_8</item>
     <item name="drawable/stat_sys_signal_4">@drawable/signal_9</item>
     <item name="drawable/stat_sys_signal_flightmode">@drawable/stat_sys_signal_flightmode</item>
-    <item name="drawable/stat_sys_signal_null">@drawable/signal_null</item>
+    <item name="drawable/stat_sys_signal_null">@drawable/stat_sys_signal_null</item>
 #wifi signal on status bar
 <item name="drawable/stat_sys_wifi_signal_0">@drawable/wifi_0</item>
     <item name="drawable/stat_sys_wifi_signal_1_fully">@drawable/wifi_1</item>
