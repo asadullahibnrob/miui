@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+   
+         <item name="mipmap/ic_launcher_marketplace">@drawable/hotseat_bg_center</item>
+    
+</resource-redirections>

@@ -21,5 +21,4 @@
     <package-redirections android:name="com.cooliris.media" android:resource="@xml/com_cooliris_media" android:minSdkVersion="7" />
     <package-redirections android:name="com.android.camera" android:resource="@xml/com_android_camera" android:minSdkVersion="7" />
     <package-redirections android:name="com.android.phone" android:resource="@xml/com_android_phone" android:minSdkVersion="7" />
-    <package-redirections android:name="com.android.vending" android:resource="@xml/com_android_vending" android:minSdkVersion="7" />
 </theme-redirections>
